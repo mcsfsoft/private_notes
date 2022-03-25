@@ -1,0 +1,1 @@
+{"version":"5d7ad27dce8184a0","fileName":"DispatcherServlet.java","fileSimpleName":"DispatcherServlet","fileType":"java","notes":{"496":"初始化九大组件,这里是初始化文件解析器","499":"根据request找到对应的Handler处理器和Interceptors","500":"使用处理器干活的人,其中有三个方法\r\n1. 判断是否可以使用某个Handler\r\n2. 使用具体的Handler干活\r\n3. 获取getLastModified资源最后一次修改时间"}}
